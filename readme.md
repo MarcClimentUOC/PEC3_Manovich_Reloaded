@@ -8,6 +8,10 @@ Data: 18 de desembre de 2023
 Els centres comercials i Twitter poden ser considerats exemples notables d'hibridació segons la teoria de Lev Manovich, ja que representen la convergència i fusió de diversos mitjans i funcions en el context digital i social contemporani.
 
 # Hibridació en centres comercials
+
+![COMPRES](https://github.com/MarcClimentUOC/PEC3_Manovich_Reloaded/blob/main/Compres.jpg)
+<a href="https://www.freepik.es/foto-gratis/gente-caminando-bolsas-compras_2970902.htm#query=personas%20comprando&position=10&from_view=search&track=ais&uuid=db732807-25bf-448c-b851-ed030366ffbe">Imagen de rawpixel.com</a> en Freepik
+
 Els centres comercials són exemples excel·lents d'hibridació en el context de la convergència de diversos serveis, entreteniment, tecnologia i experiències en un sol espai físic. La hibridació en els centres comercials es manifesta en diverses àrees:
 
 ## Convergència de serveis
@@ -23,6 +27,10 @@ La hibridació en els centres comercials es manifesta en la fusió de l'entorn f
 Els centres comercials es esforcen per proporcionar experiències més personalitzades i immersives als seus visitants. La hibridació es manifesta en la capacitat d'ofegir experiències sensorials atractives, des de la il·luminació ambiental fins a pantalles interactives i so envoltant. Mitjançant la incorporació de la tecnologia, els centres poden adaptar millor les experiències a les preferències individuals dels consumidors, creant un entorn més envoltant i atractiu.
 
 # Hibridació a Twitter (X)
+
+![TWITTER](https://github.com/MarcClimentUOC/PEC3_Manovich_Reloaded/blob/main/Twitter.jpg)
+<a href="https://www.freepik.es/foto-gratis/pila-3d-logos-twitter_1191372.htm#query=twitter&position=2&from_view=search&track=sph&uuid=a8f95bbd-a5fc-46bb-998c-4533fb8c7130">Imagen de natanaelginting</a> en Freepik
+
 Twitter és una plataforma de xarxes socials que exemplifica la hibridació mitjançant la convergència de diverses formes de comunicació i continguts en un sol espai digital. Aquesta plataforma no només ofereix comunicació escrita a través dels "tweets" (missatges curts), sinó que també incorpora elements visuals com imatges, vídeos, gifs, enllaços a altres continguts i funcionalitats d'interacció com enquestes o fils de conversa (threads). Aquesta combinació de diferents formes de mitjans de comunicació en un mateix entorn digital és un exemple significatiu d'hibridació segons la teoria de Lev Manovich.
 La hibridació en Twitter es manifesta en diverses formes:
 
@@ -47,3 +55,5 @@ MANOVICH, Lev. The Language of the New Media. The MIT Press, 2001. https://monos
 MACARTHUR, Amanda. The Real History of X (Formerly Twitter), in Brief. Lifewire, 2023. https://www.lifewire.com/history-of-twitter-3288854
 
 WIKIPEDIA. https://en.wikipedia.org/wiki/List_of_Twitter_features
+
+FREEPIK. https://www.freepik.es/
